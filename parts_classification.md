@@ -1,3 +1,10 @@
+# 实际lable
+ac
+nc_scaled
+nc_rusty
+nc_greyish
+            
+            
             0: 'AC_Bright',
             1: 'AC_Half_Bright', 
             2: 'NC_Greyish',
